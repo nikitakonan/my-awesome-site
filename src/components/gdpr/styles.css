@@ -1,0 +1,17 @@
+.gdpr-wrapper {
+  position: fixed;
+  bottom: 50px;
+  min-width: 300px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 20px;
+  border-radius: 5px;
+  box-shadow: 3px 2px 5px #444;
+  display: flex;
+  align-items: center;
+}
+
+.gdpr-text {
+  flex: 1;
+  margin: 0;
+}
